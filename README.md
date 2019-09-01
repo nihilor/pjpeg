@@ -2,7 +2,9 @@
 
 Identifies the offsets of every single image of a progressive encoded JPEG image.
 
-Pure, dependency-free!
+[![GitHub issues](https://img.shields.io/github/issues/nihilor/pjpeg)](https://github.com/nihilor/pjpeg/issues)
+[![GitHub license](https://img.shields.io/github/license/nihilor/pjpeg)](https://github.com/nihilor/pjpeg/blob/master/LICENSE)
+[![Pure dependency free library](https://img.shields.io/badge/pure-dependency%20free-blue)](https://github.com/nihilor/pjpeg/network/dependencies)
 
 ## Installation
 
@@ -31,6 +33,8 @@ You may activate the debug mode via the `options` object.
 ```js
 pjpeg( data, { debug: true } );
 ```
+
+For more examples just take a look into `test/`.
 
 ## License
 
