@@ -1,0 +1,28 @@
+{
+  "name": "pjpeg",
+  "version": "0.9.0",
+  "description": "Identifies the offsets of every single image of a progressive encoded JPEG image.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nihilor/pjpeg.git"
+  },
+  "keywords": [
+    "JPEG",
+    "Progressive",
+    "SoS",
+    "DHT",
+    "Sequence",
+    "Images",
+    "Chunks"
+  ],
+  "author": "Mark Lubkowitz <me@mlu.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nihilor/pjpeg/issues"
+  },
+  "homepage": "https://github.com/nihilor/pjpeg#readme"
+}
